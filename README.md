@@ -43,3 +43,7 @@ Las salidas deben coincidir con `data/derived/` y `results/`.
   - Las variables dicotómicas (FEDERAL_3, INTERP_*, INDPOLGR_*) no se recodifican; en INDPOLGR_*, el valor 99 («no preguntado») pasa a valor perdido.
 - **Imputación.** En 95 de las 182 constituciones, el CCP copia en 2023 los valores de la última versión codificada (`coding_imputed = 1`). El análisis principal usa las 182; la comprobación de sensibilidad, las 87 restantes.
 - **Medida de asociación.** Omega al cuadrado.
+
+## Licencias
+
+Código (`code/`): MIT (`LICENSE`). Datos derivados y resultados (`data/derived/`, `results/`): CC BY 4.0 (`data/LICENSE-DATA.md`), sin perjuicio de las condiciones de las fuentes originales.
