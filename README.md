@@ -1,6 +1,12 @@
-# Webfare en las familias jurídicas: datos y código
+# El Webfare en las familias jurídicas: teoría constitucional comparada del reparto del valor del dato
 
-Material complementario del artículo *El Webfare en las familias jurídicas: teoría constitucional comparada del reparto del valor del dato* (en evaluación). Permite reproducir los resultados descriptivos de las secciones IV y V y la comprobación de sensibilidad de IV §3 y de la nota 10.
+**Preprint, versión 1.0 (10 de noviembre de 2026)** · Luis Felipe Bourguet González · **versión no arbitrada y no definitiva** · enviada a una revista con evaluación por pares doble ciego (sede no indicada) · CC BY 4.0
+
+- PDF: [`Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0.pdf`](Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0.pdf)
+- DOCX: [`Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0.docx`](Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0.docx)
+- Fuente: [`preprint.md`](preprint.md) (Pandoc; archivos de compilación en `build/`)
+
+El repositorio contiene además los datos derivados y el código que permiten reproducir los resultados descriptivos de las secciones IV y V y la comprobación de sensibilidad de IV §3 y de la nota 10.
 
 ## Contenido
 
@@ -19,6 +25,8 @@ Material complementario del artículo *El Webfare en las familias jurídicas: te
 | `data/derived/` | `cruce_constitute_ccp_muestra182.csv` | Para cada constitución de la muestra: versión codificada por el CCP, último evento hasta 2023 y 2025, identificador y versión del texto en Constitute y categoría de versión (A–D). |
 | | `constitute_temas_secciones_2026-11-10.json` | Disposiciones que el CCP etiqueta en Constitute con cada variable del estudio (consulta del 10-11-2026): sección, ancla, artículo y ubicación; sin texto. |
 | | `referencias_textos_constitute.csv` | **Variable por variable y país por país, el artículo de la constitución en que se apoya cada valor**, con enlace al texto en Constitute y concordancia entre el código del CCP y la etiqueta (182 constituciones × 8 variables). |
+| `manuscript/` | `manuscrito_anonimizado_v1-7.md` | Texto anonimizado preparado para la evaluación doble ciego (10-11-2026); en él la nota 10 del preprint es la nota 9. |
+| `build/` | | Cabecera, filtros y finalizador DOCX con que se compila el preprint (XeLaTeX vía Pandoc). El marco y las pestañas de color dicen qué es el documento: PREPRINT (rojo), ENVIADO · SIN EVALUACIÓN POR PARES (ámbar), DATOS Y CÓDIGO ABIERTOS (verde). |
 | `results/` | `H1_…`, `H2_…`, `H3_…`, `T1_…`–`T3b_…` | Salidas del análisis principal. |
 | | `sensibilidad_imputadas_resultados.csv` | Salidas de la comprobación de sensibilidad. |
 
@@ -65,6 +73,7 @@ Las salidas deben coincidir con `data/derived/` y `results/`. Las etiquetas de C
 
 ## Licencias
 
+- **Texto del preprint** (`preprint.md`, PDF y DOCX): CC BY 4.0.
 - **Código** (`code/`): Apache 2.0 (`LICENSE`).
 - **Archivos derivados de JuriGlobe y del CCP** (`data/derived/`): uso no comercial con atribución, según las condiciones de esas fuentes. No se distribuyen bajo CC BY.
 - **Aportación propia** (`results/` y `data/recodificacion/`): CC BY 4.0.
