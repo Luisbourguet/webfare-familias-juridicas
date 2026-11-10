@@ -1,5 +1,7 @@
 # El Webfare en las familias jurídicas: teoría constitucional comparada del reparto del valor del dato
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24110937.svg)](https://doi.org/10.5281/zenodo.24110937)
+
 **Preprint, versión 1.0 (10 de noviembre de 2026)** · Luis Felipe Bourguet González · **versión no arbitrada y no definitiva** · enviada a una revista con evaluación por pares doble ciego (sede no indicada) · CC BY 4.0
 
 - PDF: [`Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0.pdf`](Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0.pdf)
@@ -7,6 +9,19 @@
 - Fuente: [`preprint.md`](preprint.md) (Pandoc; archivos de compilación en `build/`)
 
 El repositorio contiene además los datos derivados y el código que permiten reproducir los resultados descriptivos de las secciones IV y V y la comprobación de sensibilidad de IV §3 y de la nota 10.
+
+## Cómo citar
+
+Bourguet, L. (2026). *El Webfare en las familias jurídicas: teoría constitucional comparada del reparto del valor del dato* (preprint, versión 1.0; versión no arbitrada y no definitiva). Zenodo. https://doi.org/10.5281/zenodo.24110937
+
+## Versiones
+
+| Versión | Fecha | DOI | Cambio |
+|---|---|---|---|
+| v1.0-preprint | 2026-11-10 | [10.5281/zenodo.24110938](https://doi.org/10.5281/zenodo.24110938) | Primer depósito |
+| v1.0.1-preprint | 2026-11-10 | — | DOI de concepto en el PDF, el DOCX, el README y CITATION.cff; texto sin cambios |
+
+El DOI de concepto [10.5281/zenodo.24110937](https://doi.org/10.5281/zenodo.24110937) remite siempre a la última versión.
 
 ## Contenido
 
