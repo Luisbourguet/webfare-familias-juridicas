@@ -1,0 +1,183 @@
+cowcode,pais,familia,systyear,imputada,ccp_version_codificada,ultimo_evento_2023,ultimo_evento_2025,constitute_id,constitute_titulo,constitute_version,update_needed,constitute_al_dia_2023,constitute_mas_nuevo_que_ccp,texto_posterior_a_2023,categoria_protocolo
+700,Afghanistan,Muslim,2004.0,False,2004.0,2004.0,2004.0,Afghanistan_2004,Afghanistan 2004,2004.0,False,True,False,False,A_al_dia_a_2023
+339,Albania,Civil,1998.0,True,2008.0,2022.0,2022.0,Albania_2016,Albania 1998 (rev. 2016),2016.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+615,Algeria,Mixed,2020.0,False,2020.0,2020.0,2020.0,Algeria_2020,Algeria 2020,2020.0,False,True,False,False,A_al_dia_a_2023
+232,Andorra,Customary,1993.0,False,1993.0,1993.0,1993.0,Andorra_1993,Andorra 1993,1993.0,False,True,False,False,A_al_dia_a_2023
+540,Angola,Civil,2010.0,False,2021.0,2021.0,2021.0,Angola_2010,Angola 2010,2010.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+58,Antigua and Barbuda,Common,1981.0,False,1981.0,1981.0,1981.0,Antigua_and_Barbuda_1981,Antigua and Barbuda 1981,1981.0,False,True,False,False,A_al_dia_a_2023
+160,Argentina,Civil,1983.0,False,1994.0,1994.0,1994.0,Argentina_1994,"Argentina 1853 (reinst. 1983, rev. 1994)",1994.0,False,True,False,False,A_al_dia_a_2023
+371,Armenia,Civil,1995.0,False,2020.0,2020.0,2020.0,Armenia_2020,Armenia 1995 (rev. 2020),2020.0,False,True,False,False,A_al_dia_a_2023
+900,Australia,Common,1901.0,False,1985.0,1985.0,1985.0,Australia_1985,Australia 1901 (rev. 1985),1985.0,False,True,False,False,A_al_dia_a_2023
+305,Austria,Civil,1945.0,True,2009.0,2022.0,2024.0,Austria_2013,"Austria 1920 (reinst. 1945, rev. 2013)",2013.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+373,Azerbaijan,Civil,1995.0,True,2009.0,2016.0,2016.0,Azerbaijan_2016,Azerbaijan 1995 (rev. 2016),2016.0,False,True,True,False,A_al_dia_a_2023
+31,Bahamas,Common,1973.0,False,1973.0,1973.0,1973.0,Bahamas_1973,Bahamas (The) 1973,1973.0,False,True,False,False,A_al_dia_a_2023
+692,Bahrain,Mixed,2002.0,False,2017.0,2017.0,2017.0,Bahrain_2017,Bahrain 2002 (rev. 2017),2017.0,False,True,False,False,A_al_dia_a_2023
+771,Bangladesh,Mixed,1986.0,False,2018.0,2018.0,2018.0,Bangladesh_2018,"Bangladesh 1972 (reinst. 1986, rev. 2018)",2018.0,False,True,False,False,A_al_dia_a_2023
+53,Barbados,Common,1966.0,False,2021.0,2021.0,2021.0,Barbados_2026,Barbados 1966 (rev. 2026),2026.0,False,True,True,True,C_texto_posterior_a_2023
+370,Belarus,Civil,1994.0,False,2022.0,2022.0,2022.0,Belarus_2004,Belarus 1994 (rev. 2004),2004.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+211,Belgium,Civil,1831.0,False,2021.0,2021.0,2025.0,Belgium_2025,Belgium 1831 (rev. 2025),2025.0,False,True,True,True,C_texto_posterior_a_2023
+80,Belize,Common,1981.0,True,2001.0,2022.0,2022.0,Belize_2022,Belize 1981 (rev. 2022),2022.0,False,True,True,False,A_al_dia_a_2023
+434,Benin,Civil,1990.0,False,2019.0,2019.0,2025.0,Benin_1990,Benin 1990,1990.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+760,Bhutan,Mixed,2008.0,False,2008.0,2008.0,2008.0,Bhutan_2008,Bhutan 2008,2008.0,False,True,False,False,A_al_dia_a_2023
+145,Bolivia,Civil,2009.0,False,2009.0,2009.0,2009.0,Bolivia_2009,Bolivia (Plurinational State of) 2009,2009.0,False,True,False,False,A_al_dia_a_2023
+346,Bosnia and Herzegovina,Civil,1995.0,False,2009.0,2009.0,2009.0,Bosnia_Herzegovina_2009,Bosnia and Herzegovina 1995 (rev. 2009),2009.0,False,True,False,False,A_al_dia_a_2023
+571,Botswana,Mixed,1966.0,True,2002.0,2021.0,2021.0,Botswana_2021,Botswana 1966 (rev. 2021),2021.0,False,True,True,False,A_al_dia_a_2023
+140,Brazil,Civil,1988.0,False,2023.0,2023.0,2025.0,Brazil_2017,Brazil 1988 (rev. 2017),2017.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+835,Brunei,Mixed,1959.0,True,1984.0,2006.0,2006.0,,,,,False,False,False,D_sin_texto_emparejado
+355,Bulgaria,Civil,1991.0,True,2007.0,2015.0,2015.0,Bulgaria_2015,Bulgaria 1991 (rev. 2015),2015.0,True,True,True,False,A_al_dia_a_2023
+811,Cambodia,Civil,1993.0,True,1999.0,2022.0,2025.0,Cambodia_2008,Cambodia 1993 (rev. 2008),2008.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+471,Cameroon,Mixed,1972.0,False,2008.0,2008.0,2008.0,Cameroon_2008,Cameroon 1972 (rev. 2008),2008.0,False,True,False,False,A_al_dia_a_2023
+20,Canada,Common,1867.0,False,2011.0,2011.0,2011.0,Canada_2011,Canada 1867 (rev. 2011),2011.0,False,True,False,False,A_al_dia_a_2023
+402,Cape Verde,Civil,1980.0,False,2010.0,2010.0,2010.0,Cape_Verde_1992,Cape Verde 1980 (rev. 1992),1992.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+482,Central African Republic,Civil,2023.0,False,2023.0,2023.0,2023.0,,,,,False,False,False,D_sin_texto_emparejado
+483,Chad,Mixed,2023.0,False,2023.0,2023.0,2023.0,,,,,False,False,False,D_sin_texto_emparejado
+155,Chile,Civil,1980.0,True,2012.0,2023.0,2025.0,Chile_2021,Chile 1980 (rev. 2021),2021.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+710,China,Mixed,1982.0,True,2004.0,2018.0,2018.0,China_2018,China (People’s Republic of) 1982 (rev. 2018),2018.0,False,True,True,False,A_al_dia_a_2023
+100,Colombia,Civil,1991.0,True,2005.0,2023.0,2025.0,Colombia_2015,Colombia 1991 (rev. 2015),2015.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+581,Comoros,Mixed,2018.0,False,2018.0,2018.0,2018.0,Comoros_2018,Comoros 2018,2018.0,False,True,False,False,A_al_dia_a_2023
+484,Congo,Mixed,2015.0,False,2015.0,2015.0,2015.0,Congo_2015,Congo (Republic of the) 2015,2015.0,False,True,False,False,A_al_dia_a_2023
+490,Democratic Republic of the Congo,Mixed,2005.0,False,2011.0,2011.0,2011.0,Democratic_Republic_of_the_Congo_2011,Congo (Democratic Republic of the) 2005 (rev. 2011),2011.0,False,True,False,False,A_al_dia_a_2023
+94,Costa Rica,Civil,1949.0,False,2020.0,2020.0,2020.0,Costa_Rica_2020,Costa Rica 1949 (rev. 2020),2020.0,False,True,False,False,A_al_dia_a_2023
+437,Cote d'Ivoire,Mixed,2016.0,False,2020.0,2020.0,2020.0,Cote_DIvoire_2020,Côte d'Ivoire 2016 (rev. 2020),2020.0,False,True,False,False,A_al_dia_a_2023
+344,Croatia,Civil,1991.0,True,2001.0,2013.0,2013.0,Croatia_2013,Croatia 1991 (rev. 2013),2013.0,False,True,True,False,A_al_dia_a_2023
+40,Cuba,Civil,2019.0,False,2019.0,2019.0,2025.0,Cuba_2019,Cuba 2019,2019.0,True,True,False,False,A_al_dia_a_2023
+352,Cyprus,Mixed,1960.0,True,2020.0,2023.0,2025.0,Cyprus_2013,Cyprus 1960 (rev. 2013),2013.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+316,Czech Republic,Civil,1993.0,True,2002.0,2021.0,2021.0,Czech_Republic_2013,Czech Republic 1993 (rev. 2013),2013.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+390,Denmark,Civil,1953.0,False,1953.0,1953.0,1953.0,Denmark_1953,Denmark 1953,1953.0,False,True,False,False,A_al_dia_a_2023
+522,Djibouti,Mixed,1992.0,False,2010.0,2010.0,2025.0,Djibouti_2010,Djibouti 1992 (rev. 2010),2010.0,True,True,False,False,A_al_dia_a_2023
+54,Dominica,Common,1978.0,False,2014.0,2014.0,2014.0,Dominica_2014,Dominica 1978 (rev. 2014),2014.0,False,True,False,False,A_al_dia_a_2023
+42,Dominican Republic,Civil,2015.0,False,2015.0,2015.0,2024.0,Dominican_Republic_2015,Dominican Republic 2015,2015.0,True,True,False,False,A_al_dia_a_2023
+860,Timor,Mixed,2002.0,False,2002.0,2002.0,2002.0,East_Timor_2002,Timor-Leste 2002,2002.0,False,True,False,False,A_al_dia_a_2023
+130,Ecuador,Civil,2008.0,True,2011.0,2021.0,2024.0,Ecuador_2021,Ecuador 2008 (rev. 2021),2021.0,True,True,True,False,A_al_dia_a_2023
+651,Egypt,Mixed,2014.0,False,2019.0,2019.0,2019.0,Egypt_2019,Egypt 2014 (rev. 2019),2019.0,False,True,False,False,A_al_dia_a_2023
+92,El Salvador,Civil,1983.0,True,2003.0,2014.0,2025.0,El_Salvador_2014,El Salvador 1983 (rev. 2014),2014.0,True,True,True,False,A_al_dia_a_2023
+411,Equatorial Guinea,Mixed,1991.0,True,1995.0,2012.0,2012.0,Equatorial_Guinea_2012,Equatorial Guinea 1991 (rev. 2012),2012.0,False,True,True,False,A_al_dia_a_2023
+531,Eritrea,Mixed,1997.0,False,1997.0,1997.0,1997.0,Eritrea_1997,Eritrea 1997,1997.0,False,True,False,False,A_al_dia_a_2023
+366,Estonia,Civil,1992.0,True,2003.0,2015.0,2025.0,Estonia_2015,Estonia 1992 (rev. 2015),2015.0,True,True,True,False,A_al_dia_a_2023
+530,Ethiopia,Mixed,1994.0,False,1994.0,1994.0,1994.0,Ethiopia_1994,Ethiopia 1994,1994.0,False,True,False,False,A_al_dia_a_2023
+950,Fiji,Common,2013.0,False,2013.0,2013.0,2013.0,Fiji_2013,Fiji 2013,2013.0,False,True,False,False,A_al_dia_a_2023
+375,Finland,Civil,1999.0,True,2011.0,2018.0,2018.0,Finland_2018,Finland 1999 (rev. 2018),2018.0,False,True,True,False,A_al_dia_a_2023
+220,France,Civil,1958.0,False,2008.0,2008.0,2024.0,France_2024,France 1958 (rev. 2024),2024.0,False,True,True,True,C_texto_posterior_a_2023
+481,Gabon,Mixed,1991.0,False,2023.0,2023.0,2024.0,,,,,False,False,False,D_sin_texto_emparejado
+420,Gambia,Mixed,1996.0,True,2004.0,2018.0,2018.0,Gambia_2018,Gambia (The) 1996 (rev. 2018),2018.0,False,True,True,False,A_al_dia_a_2023
+372,Georgia,Civil,1995.0,True,2004.0,2020.0,2020.0,Georgia_2018,Georgia 1995 (rev. 2018),2018.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+260,Germany,Civil,1949.0,True,2012.0,2022.0,2025.0,German_Federal_Republic_2014,Germany 1949 (rev. 2014),2014.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+452,Ghana,Mixed,1992.0,False,1996.0,1996.0,1996.0,Ghana_1996,Ghana 1992 (rev. 1996),1996.0,False,True,False,False,A_al_dia_a_2023
+350,Greece,Civil,1975.0,False,2019.0,2019.0,2019.0,Greece_2019,Greece 1975 (rev. 2019),2019.0,False,True,False,False,A_al_dia_a_2023
+55,Grenada,Common,1991.0,False,1992.0,1992.0,1992.0,Grenada_1992,"Grenada 1973 (reinst. 1991, rev. 1992)",1992.0,False,True,False,False,A_al_dia_a_2023
+90,Guatemala,Civil,1985.0,False,1993.0,1993.0,1993.0,Guatemala_1993,Guatemala 1985 (rev. 1993),1993.0,False,True,False,False,A_al_dia_a_2023
+438,Guinea,Mixed,2020.0,False,2020.0,2020.0,2025.0,,,,,False,False,False,D_sin_texto_emparejado
+404,Guinea-Bissau,Mixed,1984.0,True,1991.0,1996.0,1996.0,Guinea_Bissau_1996,Guinea-Bissau 1984 (rev. 1996),1996.0,False,True,True,False,A_al_dia_a_2023
+110,Guyana,Mixed,1980.0,True,1995.0,2016.0,2016.0,Guyana_2016,Guyana 1980 (rev. 2016),2016.0,False,True,True,False,A_al_dia_a_2023
+41,Haiti,Civil,1987.0,False,2012.0,2012.0,2012.0,Haiti_2012,Haiti 1987 (rev. 2012),2012.0,False,True,False,False,A_al_dia_a_2023
+91,Honduras,Civil,1982.0,True,2012.0,2021.0,2021.0,Honduras_2013,Honduras 1982 (rev. 2013),2013.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+310,Hungary,Civil,2011.0,True,2011.0,2023.0,2025.0,Hungary_2016,Hungary 2011 (rev. 2016),2016.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+395,Iceland,Civil,1944.0,True,1999.0,2013.0,2013.0,Iceland_2013,Iceland 1944 (rev. 2013),2013.0,False,True,True,False,A_al_dia_a_2023
+750,India,Mixed,1949.0,True,2021.0,2023.0,2023.0,India_2023,India 1949 (rev. 2023),2023.0,True,True,True,False,A_al_dia_a_2023
+850,Indonesia,Mixed,1959.0,False,2002.0,2002.0,2002.0,Indonesia_2002,"Indonesia 1945 (reinst. 1959, rev. 2002)",2002.0,False,True,False,False,A_al_dia_a_2023
+630,Iran,Mixed,1979.0,False,1989.0,1989.0,1989.0,Iran_1989,Iran (Islamic Republic of) 1979 (rev. 1989),1989.0,False,True,False,False,A_al_dia_a_2023
+645,Iraq,Mixed,2005.0,False,2005.0,2005.0,2005.0,Iraq_2005,Iraq 2005,2005.0,False,True,False,False,A_al_dia_a_2023
+205,Ireland,Common,1937.0,False,2019.0,2019.0,2019.0,Ireland_2019,Ireland 1937 (rev. 2019),2019.0,False,True,False,False,A_al_dia_a_2023
+666,Israel,Mixed,1958.0,False,2023.0,2023.0,2023.0,Israel_2013,Israel 1958 (rev. 2013),2013.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+325,Italy,Civil,1947.0,True,2022.0,2023.0,2023.0,Italy_2020,Italy 1947 (rev. 2020),2020.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+51,Jamaica,Common,1962.0,False,2023.0,2023.0,2023.0,Jamaica_2023,Jamaica 1962 (rev. 2023),2023.0,True,True,False,False,A_al_dia_a_2023
+740,Japan,Mixed,1946.0,False,1946.0,1946.0,1946.0,Japan_1946,Japan 1946,1946.0,False,True,False,False,A_al_dia_a_2023
+663,Jordan,Mixed,1952.0,True,2011.0,2022.0,2022.0,Jordan_2016,Jordan 1952 (rev. 2016),2016.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+705,Kazakhstan,Civil,1995.0,True,2019.0,2022.0,2022.0,Kazakhstan_2026,Kazakhstan 2026,2026.0,False,True,True,True,C_texto_posterior_a_2023
+501,Kenya,Mixed,2010.0,False,2010.0,2010.0,2010.0,Kenya_2010,Kenya 2010,2010.0,False,True,False,False,A_al_dia_a_2023
+946,Kiribati,Common,1979.0,True,1995.0,2018.0,2018.0,Kiribati_2018,Kiribati 1979 (rev. 2018),2018.0,False,True,True,False,A_al_dia_a_2023
+731,North Korea,Mixed,1972.0,True,1998.0,2023.0,2025.0,Peoples_Republic_of_Korea_2016,Korea (Democratic People's Republic of) 1972 (rev. 2016),2016.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+732,South Korea,Mixed,1948.0,False,1987.0,1987.0,1987.0,Republic_of_Korea_1987,Korea (Republic of) 1948 (rev. 1987),1987.0,False,True,False,False,A_al_dia_a_2023
+690,Kuwait,Mixed,1992.0,False,1992.0,1992.0,1992.0,Kuwait_1992,Kuwait 1962 (reinst. 1992),1992.0,True,True,False,False,A_al_dia_a_2023
+812,Laos,Civil,1991.0,True,2003.0,2015.0,2025.0,Laos_2025,Lao People's Democratic Republic 1991 (rev. 2025),2025.0,False,True,True,True,C_texto_posterior_a_2023
+367,Latvia,Civil,1991.0,True,2007.0,2018.0,2018.0,Latvia_2018,"Latvia 1922 (reinst. 1991, rev. 2018)",2018.0,False,True,True,False,A_al_dia_a_2023
+660,Lebanon,Mixed,1926.0,False,2004.0,2004.0,2004.0,Lebanon_2004,Lebanon 1926 (rev. 2004),2004.0,False,True,False,False,A_al_dia_a_2023
+570,Lesotho,Mixed,1993.0,True,1998.0,2020.0,2025.0,Lesotho_2025,Lesotho 1993 (rev. 2025),2025.0,False,True,True,True,C_texto_posterior_a_2023
+450,Liberia,Mixed,1986.0,False,1986.0,1986.0,1986.0,Liberia_1986,Liberia 1986,1986.0,False,True,False,False,A_al_dia_a_2023
+620,Libya,Mixed,2011.0,True,2011.0,2018.0,2018.0,Libya_2012,Libya 2011 (rev. 2012),2012.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+223,Liechtenstein,Civil,1921.0,True,2003.0,2020.0,2020.0,Liechtenstein_2020,Liechtenstein 1921 (rev. 2020),2020.0,False,True,True,False,A_al_dia_a_2023
+368,Lithuania,Civil,1992.0,True,2019.0,2022.0,2022.0,Lithuania_2022,Lithuania 1992 (rev. 2022),2022.0,False,True,True,False,A_al_dia_a_2023
+212,Luxembourg,Civil,1868.0,True,2020.0,2023.0,2023.0,Luxembourg_2009,Luxembourg 1868 (rev. 2009),2009.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+343,North Macedonia,Civil,1991.0,True,2011.0,2019.0,2019.0,Macedonia_2019,North Macedonia (Republic of) 1991 (rev. 2019),2019.0,False,True,True,False,A_al_dia_a_2023
+580,Madagascar,Mixed,2010.0,False,2010.0,2010.0,2010.0,Madagascar_2010,Madagascar 2010,2010.0,False,True,False,False,A_al_dia_a_2023
+553,Malawi,Mixed,1994.0,True,1999.0,2023.0,2023.0,Malawi_2017,Malawi 1994 (rev. 2017),2017.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+820,Malaysia,Mixed,1957.0,True,2007.0,2022.0,2025.0,Malaysia_2025,Malaysia 1957 (rev. 2025),2025.0,False,True,True,True,C_texto_posterior_a_2023
+781,Maldives,Muslim,2008.0,True,2008.0,2019.0,2025.0,Maldives_2008,Maldives 2008,2008.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+338,Malta,Mixed,1964.0,False,2022.0,2022.0,2025.0,Malta_2016,Malta 1964 (rev. 2016),2016.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+983,Marshall Islands,Common,1979.0,False,1995.0,1995.0,1995.0,Marshall_Islands_1995,Marshall Islands 1979 (rev. 1995),1995.0,False,True,False,False,A_al_dia_a_2023
+435,Mauritania,Mixed,1991.0,True,2012.0,2017.0,2017.0,Mauritania_2012,Mauritania 1991 (rev. 2012),2012.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+590,Mauritius,Mixed,1968.0,True,2011.0,2016.0,2016.0,Mauritius_2016,Mauritius 1968 (rev. 2016),2016.0,False,True,True,False,A_al_dia_a_2023
+70,Mexico,Civil,1917.0,True,2013.0,2023.0,2025.0,Mexico_2015,Mexico 1917 (rev. 2015),2015.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+987,Micronesia,Mixed,1978.0,False,1990.0,1990.0,1990.0,Micronesia_1990,Micronesia (Federated States of) 1978 (rev. 1990),1990.0,False,True,False,False,A_al_dia_a_2023
+359,Moldova,Civil,1994.0,True,2006.0,2023.0,2024.0,Moldova_2024,Moldova (Republic of) 1994 (rev. 2024),2024.0,False,True,True,True,C_texto_posterior_a_2023
+221,Monaco,Civil,1962.0,False,2002.0,2002.0,2002.0,Monaco_2002,Monaco 1962 (rev. 2002),2002.0,False,True,False,False,A_al_dia_a_2023
+712,Mongolia,Mixed,1992.0,True,2001.0,2023.0,2023.0,Mongolia_2001,Mongolia 1992 (rev. 2001),2001.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+341,Montenegro,Civil,2007.0,True,2007.0,2013.0,2013.0,Montenegro_2013,Montenegro 2007 (rev. 2013),2013.0,False,True,True,False,A_al_dia_a_2023
+600,Morocco,Mixed,2011.0,False,2011.0,2011.0,2011.0,Morocco_2011,Morocco 2011,2011.0,False,True,False,False,A_al_dia_a_2023
+541,Mozambique,Mixed,2004.0,True,2007.0,2023.0,2023.0,Mozambique_2007,Mozambique 2004 (rev. 2007),2007.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+775,Myanmar,Mixed,2008.0,True,2008.0,2020.0,2020.0,Myanmar_2015,Myanmar 2008 (rev. 2015),2015.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+565,Namibia,Mixed,1990.0,True,2010.0,2014.0,2014.0,Namibia_2014,Namibia 1990 (rev. 2014),2014.0,False,True,True,False,A_al_dia_a_2023
+970,Nauru,Common,1968.0,True,1968.0,2022.0,2025.0,Nauru_2025,Nauru 1968 (rev. 2025),2025.0,False,True,True,True,C_texto_posterior_a_2023
+790,Nepal,Mixed,2015.0,True,2015.0,2020.0,2020.0,Nepal_2016,Nepal 2015 (rev. 2016),2016.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+210,Netherlands,Civil,1814.0,True,2008.0,2023.0,2023.0,Netherlands_2008,Netherlands 1814 (rev. 2008),2008.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+920,New Zealand,Common,1852.0,True,1986.0,2020.0,2020.0,New_Zealand_2014,New Zealand 1852 (rev. 2014),2014.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+93,Nicaragua,Civil,1987.0,True,2005.0,2021.0,2025.0,Nicaragua_2014,Nicaragua 1987 (rev. 2014),2014.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+436,Niger,Mixed,2010.0,True,2011.0,2017.0,2017.0,Niger_2017,Niger 2010 (rev. 2017),2017.0,False,True,True,False,A_al_dia_a_2023
+475,Nigeria,Mixed,1999.0,True,1999.0,2023.0,2023.0,Nigeria_2023,Nigeria 1999 (rev. 2023),2023.0,False,True,True,False,A_al_dia_a_2023
+385,Norway,Civil,,True,2020.0,2023.0,2024.0,Norway_2016,Norway 1814 (rev. 2016),2016.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+770,Pakistan,Mixed,2002.0,True,2011.0,2018.0,2025.0,Pakistan_2018,"Pakistan 1973 (reinst. 2002, rev. 2018)",2018.0,True,True,True,False,A_al_dia_a_2023
+986,Palau,Common,1981.0,False,,,,Palau_1992,Palau 1981 (rev. 1992),1992.0,False,False,False,False,B_anterior_a_ultimo_evento_2023
+95,Panama,Civil,1972.0,False,2004.0,2004.0,2004.0,Panama_2004,Panama 1972 (rev. 2004),2004.0,False,True,False,False,A_al_dia_a_2023
+910,Papua New Guinea,Mixed,1975.0,False,2016.0,2016.0,2016.0,Papua_New_Guinea_2016,Papua New Guinea 1975 (rev. 2016),2016.0,True,True,False,False,A_al_dia_a_2023
+150,Paraguay,Civil,1992.0,False,2011.0,2011.0,2011.0,Paraguay_2011,Paraguay 1992 (rev. 2011),2011.0,False,True,False,False,A_al_dia_a_2023
+135,Peru,Civil,1993.0,True,2021.0,2023.0,2024.0,Peru_2023,Peru 1993 (rev. 2023),2023.0,True,True,True,False,A_al_dia_a_2023
+840,Philippines,Mixed,1987.0,False,1987.0,1987.0,1987.0,Philippines_1987,Philippines 1987,1987.0,False,True,False,False,A_al_dia_a_2023
+290,Poland,Civil,1997.0,True,1997.0,2009.0,2009.0,Poland_2009,Poland 1997 (rev. 2009),2009.0,False,True,True,False,A_al_dia_a_2023
+235,Portugal,Civil,1976.0,False,2005.0,2005.0,2005.0,Portugal_2005,Portugal 1976 (rev. 2005),2005.0,False,True,False,False,A_al_dia_a_2023
+694,Qatar,Mixed,2003.0,False,2003.0,2003.0,2024.0,Qatar_2003,Qatar 2003,2003.0,True,True,False,False,A_al_dia_a_2023
+360,Romania,Civil,1991.0,False,2003.0,2003.0,2003.0,Romania_2003,Romania 1991 (rev. 2003),2003.0,False,True,False,False,A_al_dia_a_2023
+365,Russia,Civil,1993.0,True,2020.0,2022.0,2022.0,Russia_2014,Russian Federation 1993 (rev. 2014),2014.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+517,Rwanda,Mixed,2003.0,True,2010.0,2023.0,2023.0,Rwanda_2015,Rwanda 2003 (rev. 2015),2015.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+60,Saint Kitts and Nevis,Common,1983.0,False,1983.0,1983.0,1983.0,St_Kitts_and_Nevis_1983,Saint Kitts and Nevis 1983,1983.0,False,True,False,False,A_al_dia_a_2023
+56,Saint Lucia,Mixed,1978.0,False,,,,St_Lucia_1978,Saint Lucia 1978,1978.0,False,False,False,False,B_anterior_a_ultimo_evento_2023
+57,Saint Vincent and the Grenadines,Common,1979.0,False,1979.0,1979.0,1979.0,St_Vincent_and_the_Grenadines_1979,Saint Vincent and the Grenadines 1979,1979.0,False,True,False,False,A_al_dia_a_2023
+990,Samoa,Mixed,1962.0,True,2010.0,2021.0,2025.0,Samoa_2025,Samoa 1962 (rev. 2025),2025.0,False,True,True,True,C_texto_posterior_a_2023
+403,Sao Tome and Principe,Mixed,1975.0,True,1990.0,2003.0,2003.0,Sao_Tome_and_Principe_2003,Sao Tome and Principe 1975 (rev. 2003),2003.0,False,True,True,False,A_al_dia_a_2023
+670,Saudi Arabia,Muslim,1992.0,True,1992.0,2013.0,2013.0,Saudi_Arabia_2013,Saudi Arabia 1992 (rev. 2013),2013.0,False,True,True,False,A_al_dia_a_2023
+433,Senegal,Mixed,2001.0,True,2009.0,2019.0,2019.0,Senegal_2016,Senegal 2001 (rev. 2016),2016.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+340,Serbia,Civil,2006.0,True,2006.0,2022.0,2022.0,Serbia_2006,Serbia 2006,2006.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+591,Seychelles,Mixed,1993.0,True,2011.0,2022.0,2025.0,Seychelles_2025,Seychelles 1993 (rev. 2025),2025.0,False,True,True,True,C_texto_posterior_a_2023
+451,Sierra Leone,Mixed,1996.0,True,2008.0,2022.0,2022.0,Sierra_Leone_2022,"Sierra Leone 1991 (reinst. 1996, rev. 2022)",2022.0,False,True,True,False,A_al_dia_a_2023
+830,Singapore,Mixed,1963.0,True,2010.0,2023.0,2024.0,Singapore_2016,Singapore 1963 (rev. 2016),2016.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+317,Slovak Republic,Civil,1992.0,True,2001.0,2023.0,2025.0,Slovakia_2017,Slovakia 1992 (rev. 2017),2017.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+349,Slovenia,Civil,1991.0,True,2006.0,2021.0,2021.0,Slovenia_2021,Slovenia 1991 (rev. 2021),2021.0,False,True,True,False,A_al_dia_a_2023
+940,Solomon Islands,Mixed,1978.0,True,2018.0,2023.0,2023.0,Solomon_Islands_2018,Solomon Islands 1978 (rev. 2018),2018.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+560,South Africa,Mixed,1996.0,True,2012.0,2023.0,2023.0,South_Africa_2012,South Africa 1996 (rev. 2012),2012.0,True,False,False,False,B_anterior_a_ultimo_evento_2023
+230,Spain,Civil,1978.0,False,2011.0,2011.0,2024.0,Spain_2011,Spain 1978 (rev. 2011),2011.0,True,True,False,False,A_al_dia_a_2023
+780,Sri Lanka,Mixed,1978.0,True,2010.0,2022.0,2022.0,Sri_Lanka_2015,Sri Lanka 1978 (rev. 2015),2015.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+625,Sudan,Mixed,2019.0,False,2020.0,2020.0,2025.0,Sudan_2020,Sudan 2019 (rev. 2020),2020.0,True,True,False,False,A_al_dia_a_2023
+115,Suriname,Civil,1987.0,False,1992.0,1992.0,1992.0,Surinam_1992,Suriname 1987 (rev. 1992),1992.0,False,True,False,False,A_al_dia_a_2023
+572,Eswatini,Mixed,2005.0,False,2005.0,2005.0,2005.0,Swaziland_2005,Eswatini 2005,2005.0,False,True,False,False,A_al_dia_a_2023
+380,Sweden,Civil,1974.0,True,1998.0,2023.0,2023.0,Sweden_2012,Sweden 1974 (rev. 2012),2012.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+225,Switzerland,Civil,1999.0,True,2002.0,2023.0,2025.0,Switzerland_2014,Switzerland 1999 (rev. 2014),2014.0,True,False,True,False,B_anterior_a_ultimo_evento_2023
+713,Taiwan,Mixed,1947.0,False,2005.0,2005.0,2005.0,Taiwan_2005,Taiwan (Republic of China) 1947 (rev. 2005),2005.0,False,True,False,False,A_al_dia_a_2023
+702,Tajikistan,Civil,1994.0,True,2003.0,2016.0,2016.0,Tajikistan_2016,Tajikistan 1994 (rev. 2016),2016.0,False,True,True,False,A_al_dia_a_2023
+510,Tanzania,Mixed,1977.0,True,1995.0,2005.0,2005.0,Tanzania_2005,Tanzania (United Republic of) 1977 (rev. 2005),2005.0,False,True,True,False,A_al_dia_a_2023
+800,Thailand,Civil,2017.0,False,2017.0,2017.0,2017.0,Thailand_2017,Thailand 2017,2017.0,False,True,False,False,A_al_dia_a_2023
+461,Togo,Mixed,1992.0,True,2007.0,2019.0,2024.0,Togo_2024,Togo 2024,2024.0,False,True,True,True,C_texto_posterior_a_2023
+955,Tonga,Common,1875.0,True,1988.0,2021.0,2025.0,Tonga_2025,Tonga 1875 (rev. 2025),2025.0,False,True,True,True,C_texto_posterior_a_2023
+52,Trinidad and Tobago,Common,1976.0,False,2007.0,2007.0,2007.0,Trinidad_and_Tobago_2007,Trinidad and Tobago 1976 (rev. 2007),2007.0,False,True,False,False,A_al_dia_a_2023
+640,Turkey,Civil,1982.0,True,2011.0,2017.0,2017.0,Turkey_2017,Turkey 1982 (rev. 2017),2017.0,False,True,True,False,A_al_dia_a_2023
+947,Tuvalu,Common,1986.0,True,1986.0,2023.0,2023.0,Tuvalu_2023,Tuvalu 2023,2023.0,False,True,True,False,A_al_dia_a_2023
+500,Uganda,Mixed,1995.0,True,2005.0,2017.0,2017.0,Uganda_2017,Uganda 1995 (rev. 2017),2017.0,False,True,True,False,A_al_dia_a_2023
+369,Ukraine,Civil,1996.0,True,2004.0,2019.0,2019.0,Ukraine_2019,Ukraine 1996 (rev. 2019),2019.0,False,True,True,False,A_al_dia_a_2023
+696,United Arab Emirates,Mixed,1971.0,True,2004.0,2009.0,2009.0,United_Arab_Emirates_2009,United Arab Emirates 1971 (rev. 2009),2009.0,False,True,True,False,A_al_dia_a_2023
+200,United Kingdom,Common,,True,1972.0,2013.0,2013.0,United_Kingdom_2013,United Kingdom 1215 (rev. 2013),2013.0,True,True,True,False,A_al_dia_a_2023
+2,United States,Common,1789.0,False,1992.0,1992.0,1992.0,United_States_of_America_1992,United States of America 1789 (rev. 1992),1992.0,False,True,False,False,A_al_dia_a_2023
+165,Uruguay,Civil,1985.0,False,2004.0,2004.0,2004.0,Uruguay_2004,"Uruguay 1966 (reinst. 1985, rev. 2004)",2004.0,False,True,False,False,A_al_dia_a_2023
+935,Vanuatu,Mixed,1980.0,True,1983.0,2023.0,2024.0,Vanuatu_2023,Vanuatu 1980 (rev. 2023),2023.0,True,True,True,False,A_al_dia_a_2023
+101,Venezuela,Civil,1999.0,False,2009.0,2009.0,2009.0,Venezuela_2009,Venezuela (Bolivarian Republic of) 1999 (rev. 2009),2009.0,False,True,False,False,A_al_dia_a_2023
+816,Vietnam,Civil,1992.0,True,2001.0,2013.0,2025.0,Socialist_Republic_of_Vietnam_2013,Viet Nam 1992 (rev. 2013),2013.0,True,True,True,False,A_al_dia_a_2023
+678,Yemen Arab Republic,Mixed,1991.0,True,2001.0,2015.0,2015.0,Yemen_2015,Yemen 1991 (rev. 2015),2015.0,False,True,True,False,A_al_dia_a_2023
+551,Zambia,Mixed,1991.0,True,2009.0,2016.0,2025.0,Zambia_2016,Zambia 1991 (rev. 2016),2016.0,True,True,True,False,A_al_dia_a_2023
+552,Zimbabwe,Mixed,2013.0,False,2021.0,2021.0,2021.0,Zimbabwe_2021,Zimbabwe 2013 (rev. 2021),2021.0,False,True,False,False,A_al_dia_a_2023
