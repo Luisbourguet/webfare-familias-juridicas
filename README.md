@@ -13,7 +13,7 @@ Material complementario del artículo *El Webfare en las familias jurídicas: te
 | | `cruce_juriglobe_ccp.csv` | Emparejamiento de las entidades de JuriGlobe con los códigos del CCP (197 filas: cuatro corresponden a homónimos históricos que el corte de 2023 descarta). |
 | | `dataset_2023_juriglobe_ccp.csv` | Un Estado por fila, con las variables recodificadas; la muestra analítica son las filas con `coded_2023 = True` (n = 182). |
 | | `imputadas_2023_eventos_no_codificados.csv` | 95 filas imputadas: año de la versión codificada y eventos posteriores (438 en total). |
-| `data/recodificacion/` | `recodificacion_2023.csv` | Recodificación de los ocho países de referencia con fila imputada (México, Colombia, Arabia Saudí, Ecuador, China, India, Italia y Vietnam) sobre los textos vigentes en 2023: 80 códigos, con fuente y artículo. Propuesta pendiente de validación del autor. |
+| `data/recodificacion/` | `recodificacion_2023.csv` | Recodificación de los ocho países de referencia con fila imputada (México, Colombia, Arabia Saudí, Ecuador, China, India, Italia y Vietnam) sobre los textos vigentes en 2023: 80 códigos, con fuente y artículo. Validada por el autor (10-11-2026). Tres códigos cambian: México, REFEREN; Vietnam, INFOACC; Colombia, CENSUS. El artículo los usa en la Tabla III y en los casos; los análisis agregados usan los valores del CCP. |
 | `results/` | `H1_…`, `H2_…`, `H3_…`, `T1_…`–`T3b_…` | Salidas del análisis principal. |
 | | `sensibilidad_imputadas_resultados.csv` | Salidas de la comprobación de sensibilidad. |
 

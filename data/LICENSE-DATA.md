@@ -23,7 +23,7 @@ La normalización de nombres, el emparejamiento con los códigos del CCP y la re
 ## 2. Aportación propia — CC BY 4.0
 
 - `results/`: salidas del análisis.
-- `data/recodificacion/`: recodificación de los países de referencia sobre los textos vigentes en 2023 (propuesta pendiente de validación del autor).
+- `data/recodificacion/`: recodificación de los países de referencia sobre los textos vigentes en 2023 (validada por el autor el 10-11-2026).
 
 Se distribuyen bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/deed.es
 
