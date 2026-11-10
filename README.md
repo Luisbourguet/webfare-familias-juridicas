@@ -13,6 +13,7 @@ Material complementario del artículo *El Webfare en las familias jurídicas: te
 | | `cruce_juriglobe_ccp.csv` | Emparejamiento de las entidades de JuriGlobe con los códigos del CCP (197 filas: cuatro corresponden a homónimos históricos que el corte de 2023 descarta). |
 | | `dataset_2023_juriglobe_ccp.csv` | Un Estado por fila, con las variables recodificadas; la muestra analítica son las filas con `coded_2023 = True` (n = 182). |
 | | `imputadas_2023_eventos_no_codificados.csv` | 95 filas imputadas: año de la versión codificada y eventos posteriores (438 en total). |
+| `data/recodificacion/` | `recodificacion_2023.csv` | Recodificación de los ocho países de referencia con fila imputada (México, Colombia, Arabia Saudí, Ecuador, China, India, Italia y Vietnam) sobre los textos vigentes en 2023: 80 códigos, con fuente y artículo. Propuesta pendiente de validación del autor. |
 | `results/` | `H1_…`, `H2_…`, `H3_…`, `T1_…`–`T3b_…` | Salidas del análisis principal. |
 | | `sensibilidad_imputadas_resultados.csv` | Salidas de la comprobación de sensibilidad. |
 
@@ -46,4 +47,8 @@ Las salidas deben coincidir con `data/derived/` y `results/`.
 
 ## Licencias
 
-Código (`code/`): MIT (`LICENSE`). Datos derivados y resultados (`data/derived/`, `results/`): CC BY 4.0 (`data/LICENSE-DATA.md`), sin perjuicio de las condiciones de las fuentes originales.
+- **Código** (`code/`): Apache 2.0 (`LICENSE`).
+- **Archivos derivados de JuriGlobe y del CCP** (`data/derived/`): uso no comercial con atribución, según las condiciones de esas fuentes. No se distribuyen bajo CC BY.
+- **Aportación propia** (`results/` y `data/recodificacion/`): CC BY 4.0.
+
+Detalle en `data/LICENSE-DATA.md`.
