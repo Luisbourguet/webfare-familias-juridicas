@@ -1,0 +1,247 @@
+entity_raw,entity,population_mn,system,components,n_components,has_Civil,has_Common,has_Customary,has_Muslim,has_Jewish
+AFGHANISTAN,AFGHANISTAN,(1) 31.9,Muslim law,Muslim,1,0,0,0,1,0
+ALBANIA,ALBANIA,3.1,Civil law,Civil,1,1,0,0,0,0
+ALGERIA,ALGERIA,33.3,Mixed,Civil|Muslim,2,1,0,0,1,0
+ANDORRA,ANDORRA,0.1,Customary law,Customary,1,0,0,1,0,0
+ANGOLA,ANGOLA,16.4,Civil law,Civil,1,1,0,0,0,0
+ANGUILLA (UK),ANGUILLA,(b),Common law,Common,1,0,1,0,0,0
+ANTIGUA AND BARBUDA,ANTIGUA AND BARBUDA,0.1,Common law,Common,1,0,1,0,0,0
+ARGENTINA,ARGENTINA,39.1,Civil law,Civil,1,1,0,0,0,0
+ARMENIA,ARMENIA,3,Civil law,Civil,1,1,0,0,0,0
+ARUBA (NL),ARUBA,0.1,Civil law,Civil,1,1,0,0,0,0
+AUSTRALIA (AU),AUSTRALIA,20.5,Common law,Common,1,0,1,0,0,0
+AUSTRIA,AUSTRIA,8.2,Civil law,Civil,1,1,0,0,0,0
+AZERBAIJAN,AZERBAIJAN,8.5,Civil law,Civil,1,1,0,0,0,0
+AZORES (PG),AZORES,(b),Civil law,Civil,1,1,0,0,0,0
+BAHAMAS,BAHAMAS,0.3,Common law,Common,1,0,1,0,0,0
+BAHRAIN,BAHRAIN,0.7,Mixed,Civil|Common|Customary|Muslim,4,1,1,1,1,0
+BANGLADESH,BANGLADESH,144.3,Mixed,Common|Muslim,2,0,1,0,1,0
+BARBADOS,BARBADOS,0.3,Common law,Common,1,0,1,0,0,0
+BELARUS,BELARUS,9.7,Civil law,Civil,1,1,0,0,0,0
+BELGIUM,BELGIUM,10.5,Civil law,Civil,1,1,0,0,0,0
+BELIZE,BELIZE,0.3,Common law,Common,1,0,1,0,0,0
+BENIN,BENIN,8.7,Civil law,Civil,1,1,0,0,0,0
+BERMUDA (UK),BERMUDA,0.1,Common law,Common,1,0,1,0,0,0
+BHUTAN,BHUTAN,0.6,Mixed,Common|Customary,2,0,1,1,0,0
+BOLIVIA,BOLIVIA,9.3,Civil law,Civil,1,1,0,0,0,0
+BOSNIA AND HERZEGOVINA,BOSNIA AND HERZEGOVINA,3.9,Civil law,Civil,1,1,0,0,0,0
+BOTSWANA,BOTSWANA,1.8,Mixed,Civil|Common,2,1,1,0,0,0
+BRAZIL,BRAZIL,188.7,Civil law,Civil,1,1,0,0,0,0
+BRITISH INDIAN OCEAN TERRITORY (UK),BRITISH INDIAN OCEAN TERRITORY,(b),Common law,Common,1,0,1,0,0,0
+BRITISH TERRITORIES OF ANTARTICA (UK),BRITISH TERRITORIES OF ANTARTICA,(b),Common law,Common,1,0,1,0,0,0
+BRUNEI,BRUNEI,0.4,Mixed,Common|Customary|Muslim,3,0,1,1,1,0
+BULGARIA,BULGARIA,7.7,Civil law,Civil,1,1,0,0,0,0
+BURKINA FASO,BURKINA FASO,13.6,Mixed,Civil|Customary,2,1,0,1,0,0
+BURUNDI,BURUNDI,7.8,Mixed,Civil|Customary,2,1,0,1,0,0
+CAMBODIA,CAMBODIA,14.4,Civil law,Civil,1,1,0,0,0,0
+CAMEROON,CAMEROON,16.7,Mixed,Civil|Common|Customary,3,1,1,1,0,0
+CANADA (CD) (minus QUEBEC),CANADA,(2) 25,Common law,Common,1,0,1,0,0,0
+CANARY ISLANDS (SP),CANARY ISLANDS,(b),Civil law,Civil,1,1,0,0,0,0
+CAPE VERDE,CAPE VERDE,0.5,Civil law,Civil,1,1,0,0,0,0
+CAYMANS (UK),CAYMANS,(b),Common law,Common,1,0,1,0,0,0
+CENTRAL AFRICAN REPUBLIC,CENTRAL AFRICAN REPUBLIC,4.1,Civil law,Civil,1,1,0,0,0,0
+CHAD,CHAD,10,Mixed,Civil|Customary,2,1,0,1,0,0
+CHILE,CHILE,16.5,Civil law,Civil,1,1,0,0,0,0
+CHINA (CN) (minus H-K and MACAU),CHINA,1 312,Mixed,Civil|Customary,2,1,0,1,0,0
+COLOMBIA,COLOMBIA,45.6,Civil law,Civil,1,1,0,0,0,0
+COMOROS,COMOROS,0.6,Mixed,Civil|Muslim,2,1,0,0,1,0
+CONGO,CONGO,4.1,Mixed,Civil|Customary,2,1,0,1,0,0
+"CONGO, POPULAR DEMOCRATIC","CONGO, POPULAR DEMOCRATIC",59.3,Mixed,Civil|Customary,2,1,0,1,0,0
+COOK ISLANDS (NZ),COOK ISLANDS,(b),Common law,Common,1,0,1,0,0,0
+COSTA RICA,COSTA RICA,4.4,Civil law,Civil,1,1,0,0,0,0
+COTE D'IVOIRE,COTE D'IVOIRE,18.5,Mixed,Civil|Customary,2,1,0,1,0,0
+CROATIA,CROATIA,4.4,Civil law,Civil,1,1,0,0,0,0
+CUBA,CUBA,11.3,Civil law,Civil,1,1,0,0,0,0
+CYPRUS,CYPRUS,0.8,Mixed,Civil|Common,2,1,1,0,0,0
+CZECH REPUBLIC,CZECH REPUBLIC,10.2,Civil law,Civil,1,1,0,0,0,0
+DENMARK ( DK ) (minus GREENLAND),DENMARK,5.4,Civil law,Civil,1,1,0,0,0,0
+DJIBOUTI,DJIBOUTI,0.8,Mixed,Civil|Customary|Muslim,3,1,0,1,1,0
+DOMINICA,DOMINICA,0.1,Common law,Common,1,0,1,0,0,0
+DOMINICAN REPUBLIC,DOMINICAN REPUBLIC,9.6,Civil law,Civil,1,1,0,0,0,0
+EAST TIMOR,EAST TIMOR,1,Mixed,Civil|Customary|Muslim,3,1,0,1,1,0
+ECUADOR,ECUADOR,13.4,Civil law,Civil,1,1,0,0,0,0
+EGYPT,EGYPT,75.4,Mixed,Civil|Muslim,2,1,0,0,1,0
+EL SALVADOR,EL SALVADOR,7,Civil law,Civil,1,1,0,0,0,0
+EQUATORIAL GUINEA,EQUATORIAL GUINEA,0.5,Mixed,Civil|Customary,2,1,0,1,0,0
+ERITREA,ERITREA,4.5,Mixed,Civil|Customary|Muslim,3,1,0,1,1,0
+ESTONIA,ESTONIA,1.3,Civil law,Civil,1,1,0,0,0,0
+ETHIOPIA,ETHIOPIA,72.7,Mixed,Civil|Customary,2,1,0,1,0,0
+FALKLAND ISLANDS,FALKLAND ISLANDS,(b),Common law,Common,1,0,1,0,0,0
+FAROE ISLANDS (DK),FAROE ISLANDS,(b),Civil law,Civil,1,1,0,0,0,0
+FIJI ISLANDS,FIJI ISLANDS,0.9,Common law,Common,1,0,1,0,0,0
+FINLAND,FINLAND,5.3,Civil law,Civil,1,1,0,0,0,0
+"FRANCE (FR) (minus MAYOTTE ISLAND, NEW CALEDONIA AND FRENCH POLYNESIA)",FRANCE,61,Civil law,Civil,1,1,0,0,0,0
+FRENCH GUYANA (FR),FRENCH GUYANA,(b),Civil law,Civil,1,1,0,0,0,0
+FRENCH POLYNESIA (FR),FRENCH POLYNESIA,0.3,Civil law,Civil,1,1,0,0,0,0
+FRENCH SOUTHERN AND ANTARCTIC LANDS (FR),FRENCH SOUTHERN AND ANTARCTIC LANDS,(b),Civil law,Civil,1,1,0,0,0,0
+GABON,GABON,1.4,Mixed,Civil|Customary,2,1,0,1,0,0
+GAMBIA,GAMBIA,1.6,Mixed,Common|Customary|Muslim,3,0,1,1,1,0
+GEORGIA,GEORGIA,4.4,Civil law,Civil,1,1,0,0,0,0
+GERMANY,GERMANY,82.4,Civil law,Civil,1,1,0,0,0,0
+GHANA,GHANA,22.5,Mixed,Common|Customary,2,0,1,1,0,0
+GIBRALTAR (UK),GIBRALTAR,(b),Common law,Common,1,0,1,0,0,0
+GREECE,GREECE,11.1,Civil law,Civil,1,1,0,0,0,0
+GRENADA,GRENADA,0.1,Common law,Common,1,0,1,0,0,0
+GREENLAND (DK),GREENLAND,0.1,Civil law,Civil,1,1,0,0,0,0
+GUADELOUPE (FR),GUADELOUPE,(b),Civil law,Civil,1,1,0,0,0,0
+GUAM (USA),GUAM,0.2,Common law,Common,1,0,1,0,0,0
+GUATEMALA,GUATEMALA,12.9,Civil law,Civil,1,1,0,0,0,0
+GUERNSEY (UK),GUERNSEY,(3) 0.09,Customary law,Customary,1,0,0,1,0,0
+GUINEA,GUINEA,9.2,Mixed,Civil|Customary,2,1,0,1,0,0
+GUINEA-BISSAU,GUINEA-BISSAU,1.6,Mixed,Civil|Customary,2,1,0,1,0,0
+GUYANA,GUYANA,0.8,Mixed,Civil|Common,2,1,1,0,0,0
+HAITI,HAITI,8.6,Civil law,Civil,1,1,0,0,0,0
+HAWAII (USA),HAWAII,(b),Common law,Common,1,0,1,0,0,0
+HONDURAS,HONDURAS,7.4,Civil law,Civil,1,1,0,0,0,0
+HONG KONG (CN),HONG KONG,7,Mixed,Common|Customary,2,0,1,1,0,0
+HUNGARY,HUNGARY,10.1,Civil law,Civil,1,1,0,0,0,0
+ICELAND,ICELAND,0.3,Civil law,Civil,1,1,0,0,0,0
+INDIA,INDIA,1 109.8,Mixed,Common|Customary|Muslim,3,0,1,1,1,0
+INDONESIA,INDONESIA,223,Mixed,Civil|Customary|Muslim,3,1,0,1,1,0
+IRAN,IRAN,69.2,Mixed,Civil|Muslim,2,1,0,0,1,0
+IRAQ,IRAQ,(4) 27.5,Mixed,Civil|Muslim,2,1,0,0,1,0
+IRELAND,IRELAND,4.2,Common law,Common,1,0,1,0,0,0
+ISRAEL,ISRAEL,7,Mixed,Civil|Common|Jewish|Muslim,4,1,1,0,1,1
+ITALY,ITALY,58.6,Civil law,Civil,1,1,0,0,0,0
+JAMAICA,JAMAICA,2.7,Common law,Common,1,0,1,0,0,0
+JAPAN,JAPAN,127.6,Mixed,Civil|Customary,2,1,0,1,0,0
+JERSEY (UK),JERSEY,(5) 0.06,Customary law,Customary,1,0,0,1,0,0
+JORDAN,JORDAN,5.6,Mixed,Civil|Customary|Muslim,3,1,0,1,1,0
+KAZAKHSTAN,KAZAKHSTAN,15.3,Civil law,Civil,1,1,0,0,0,0
+KENYA,KENYA,35.1,Mixed,Common|Customary|Muslim,3,0,1,1,1,0
+KIRIBATI,KIRIBATI,0.1,Common law,Common,1,0,1,0,0,0
+KOREA NORTH,KOREA NORTH,22.6,Mixed,Civil|Customary,2,1,0,1,0,0
+KOREA SOUTH,KOREA SOUTH,48.4,Mixed,Civil|Customary,2,1,0,1,0,0
+KUWAIT,KUWAIT,2.6,Mixed,Civil|Customary|Muslim,3,1,0,1,1,0
+KYRGYZSTAN,KYRGYZSTAN,5.2,Civil law,Civil,1,1,0,0,0,0
+LAOS,LAOS,5.8,Civil law,Civil,1,1,0,0,0,0
+LATVIA,LATVIA,2.3,Civil law,Civil,1,1,0,0,0,0
+LEBANON,LEBANON,4.1,Mixed,Civil|Muslim,2,1,0,0,1,0
+LESOTHO,LESOTHO,1.8,Mixed,Civil|Common|Customary,3,1,1,1,0,0
+LIBERIA,LIBERIA,3.4,Mixed,Common|Customary,2,0,1,1,0,0
+LIBYA,LIBYA,6,Mixed,Civil|Muslim,2,1,0,0,1,0
+LIECHTENSTEIN,LIECHTENSTEIN,---,Civil law,Civil,1,1,0,0,0,0
+LITHUANIA,LITHUANIA,3.4,Civil law,Civil,1,1,0,0,0,0
+LOUISIANA (USA),LOUISIANA,(6) 4.3,Mixed,Civil|Common,2,1,1,0,0,0
+LUXEMBOURG,LUXEMBOURG,0.5,Civil law,Civil,1,1,0,0,0,0
+MACAU (CN),MACAU,0.5,Civil law,Civil,1,1,0,0,0,0
+MACEDONIA (FYROM),MACEDONIA,2,Civil law,Civil,1,1,0,0,0,0
+MADAGASCAR,MADAGASCAR,19.1,Mixed,Civil|Customary,2,1,0,1,0,0
+MADEIRA (PG),MADEIRA,(b),Civil law,Civil,1,1,0,0,0,0
+MALAWI,MALAWI,13.2,Mixed,Common|Customary,2,0,1,1,0,0
+MALAYSIA,MALAYSIA,25.8,Mixed,Common|Customary|Muslim,3,0,1,1,1,0
+MALDIVES ISLANDS,MALDIVES ISLANDS,0.3,Muslim law,Muslim,1,0,0,0,1,0
+MALI,MALI,13.9,Mixed,Civil|Customary,2,1,0,1,0,0
+MALTA,MALTA,0.4,Mixed,Civil|Common,2,1,1,0,0,0
+MAN ISLE OF (UK),MAN ISLE OF,0.1,Common law,Common,1,0,1,0,0,0
+MARIANA (USA),MARIANA,0.1,Common law,Common,1,0,1,0,0,0
+MARSHALL ISLANDS,MARSHALL ISLANDS,0.1,Common law,Common,1,0,1,0,0,0
+MARTINIQUE (FR),MARTINIQUE,(b),Civil law,Civil,1,1,0,0,0,0
+MAURITANIA,MAURITANIA,3.2,Mixed,Civil|Muslim,2,1,0,0,1,0
+MAURITIUS,MAURITIUS,1.3,Mixed,Civil|Common,2,1,1,0,0,0
+MAYOTTE ISLAND (FR),MAYOTTE ISLAND,0.2,Civil law,Civil,1,1,0,0,0,0
+MEXICO,MEXICO,104.2,Civil law,Civil,1,1,0,0,0,0
+MICRONESIA,MICRONESIA,0.1,Mixed,Common|Customary,2,0,1,1,0,0
+MOLDOVA,MOLDOVA,3.8,Civil law,Civil,1,1,0,0,0,0
+MONACO,MONACO,---,Civil law,Civil,1,1,0,0,0,0
+MONGOLIA,MONGOLIA,2.6,Mixed,Civil|Customary,2,1,0,1,0,0
+MONTSERRAT (UK),MONTSERRAT,(b),Common law,Common,1,0,1,0,0,0
+MONTENEGRO,MONTENEGRO,0.6,Civil law,Civil,1,1,0,0,0,0
+MOROCCO,MOROCCO,30.5,Mixed,Civil|Muslim,2,1,0,0,1,0
+MOZAMBIQUE,MOZAMBIQUE,20.1,Mixed,Civil|Customary,2,1,0,1,0,0
+MYANMAR,MYANMAR,51,Mixed,Common|Customary,2,0,1,1,0,0
+NAMIBIA,NAMIBIA,2.1,Mixed,Civil|Common,2,1,1,0,0,0
+NAURU,NAURU,---,Common law,Common,1,0,1,0,0,0
+NÉPAL,NÉPAL,27.7,Mixed,Common|Customary,2,0,1,1,0,0
+NETHERLANDS ( NL ) (minus NETHERLANDS ANTILLES and ARUBA),NETHERLANDS,16.4,Civil law,Civil,1,1,0,0,0,0
+NETHERLANDS ANTILLES (NL),NETHERLANDS ANTILLES,0.2,Civil law,Civil,1,1,0,0,0,0
+NEW CALEDONIA (FR),NEW CALEDONIA,0.2,Civil law,Civil,1,1,0,0,0,0
+"NEW ZEALAND (NZ) (minus COOK ISLANDS, NIUE ISLAND and TOKELAU)",NEW ZEALAND,4.1,Common law,Common,1,0,1,0,0,0
+NICARAGUA,NICARAGUA,5.2,Civil law,Civil,1,1,0,0,0,0
+NIGER,NIGER,14.4,Mixed,Civil|Customary,2,1,0,1,0,0
+NIGERIA,NIGERIA,144.7,Mixed,Common|Customary|Muslim,3,0,1,1,1,0
+NIUE ISLAND (NZ),NIUE ISLAND,(b),Common law,Common,1,0,1,0,0,0
+NORFOLK ISLAND (AU),NORFOLK ISLAND,(b),Common law,Common,1,0,1,0,0,0
+NORTHERN IRELAND (UK),NORTHERN IRELAND,(b),Common law,Common,1,0,1,0,0,0
+NORWAY,NORWAY,4.6,Civil law,Civil,1,1,0,0,0,0
+OMAN,OMAN,2.6,Mixed,Civil|Customary|Muslim,3,1,0,1,1,0
+PAKISTAN,PAKISTAN,159,Mixed,Common|Muslim,2,0,1,0,1,0
+PALAU,PALAU,---,Common law,Common,1,0,1,0,0,0
+PALESTINE,PALESTINE,3.7,Mixed,Civil|Muslim,2,1,0,0,1,0
+PANAMA,PANAMA,3.3,Civil law,Civil,1,1,0,0,0,0
+PAPUA NEW GUINEA,PAPUA NEW GUINEA,6,Mixed,Common|Customary,2,0,1,1,0,0
+PARAGUAY,PARAGUAY,6,Civil law,Civil,1,1,0,0,0,0
+PERU,PERU,28.4,Civil law,Civil,1,1,0,0,0,0
+PHILIPPINES,PHILIPPINES,84.6,Mixed,Civil|Common,2,1,1,0,0,0
+PITCAIRN (UK),PITCAIRN,(b),Common law,Common,1,0,1,0,0,0
+POLAND,POLAND,38.1,Civil law,Civil,1,1,0,0,0,0
+PORTO RICO (ASS. USA),PORTO RICO,3.9,Mixed,Civil|Common,2,1,1,0,0,0
+PORTUGAL (PG),PORTUGAL,10.6,Civil law,Civil,1,1,0,0,0,0
+QATAR,QATAR,0.8,Mixed,Civil|Common|Customary|Muslim,4,1,1,1,1,0
+QUEBEC (CD),QUEBEC,(7) 7.6,Mixed,Civil|Common,2,1,1,0,0,0
+REUNION ISLAND (FR),REUNION ISLAND,(b),Civil law,Civil,1,1,0,0,0,0
+ROMANIA,ROMANIA,21.5,Civil law,Civil,1,1,0,0,0,0
+RUSSIA,RUSSIA,142.4,Civil law,Civil,1,1,0,0,0,0
+RWANDA,RWANDA,9.2,Mixed,Civil|Customary,2,1,0,1,0,0
+SAINT-BARTHELEMY (FR),SAINT-BARTHELEMY,(b),Civil law,Civil,1,1,0,0,0,0
+SAINT HELENA (UK),SAINT HELENA,(b),Common law,Common,1,0,1,0,0,0
+SAINT KITTS AND NEVIS,SAINT KITTS AND NEVIS,---,Common law,Common,1,0,1,0,0,0
+SAINT LUCIA,SAINT LUCIA,0.2,Mixed,Civil|Common,2,1,1,0,0,0
+SAINT MARTIN (FR),SAINT MARTIN,(b),Civil law,Civil,1,1,0,0,0,0
+SAINT PIERRE AND MIQUELON (FR),SAINT PIERRE AND MIQUELON,(b),Civil law,Civil,1,1,0,0,0,0
+SAINT VINCENT AND THE GRANADINES,SAINT VINCENT AND THE GRANADINES,0.1,Common law,Common,1,0,1,0,0,0
+SAMOA,SAMOA,0.2,Mixed,Common|Customary,2,0,1,1,0,0
+"SAMOA, AMERICAN (USA)","SAMOA, AMERICAN",0.1,Common law,Common,1,0,1,0,0,0
+SAN MARINO,SAN MARINO,---,Civil law,Civil,1,1,0,0,0,0
+SAO TOMÉ AND PRINCIPE,SAO TOMÉ AND PRINCIPE,0.2,Mixed,Civil|Customary,2,1,0,1,0,0
+SAUDI ARABIA,SAUDI ARABIA,23.7,Muslim law,Muslim,1,0,0,0,1,0
+SCOTLAND (UK),SCOTLAND,(8) 5.1,Mixed,Civil|Common,2,1,1,0,0,0
+SENEGAL,SENEGAL,11.9,Mixed,Civil|Customary,2,1,0,1,0,0
+SERBIA,SERBIA,7.4,Civil law,Civil,1,1,0,0,0,0
+SEYCHELLES,SEYCHELLES,0.1,Mixed,Civil|Common,2,1,1,0,0,0
+SIERRA LEONE,SIERRA LEONE,5.6,Mixed,Common|Customary,2,0,1,1,0,0
+SINGAPORE,SINGAPORE,4.4,Mixed,Common|Muslim,2,0,1,0,1,0
+SLOVAKIA,SLOVAKIA,5.4,Civil law,Civil,1,1,0,0,0,0
+SLOVENIA,SLOVENIA,2,Civil law,Civil,1,1,0,0,0,0
+SOLOMON ISLANDS,SOLOMON ISLANDS,0.5,Mixed,Common|Customary,2,0,1,1,0,0
+SOMALIA,SOMALIA,8.5,Mixed,Civil|Common|Customary|Muslim,4,1,1,1,1,0
+SOUTH AFRICA,SOUTH AFRICA,47.4,Mixed,Civil|Common,2,1,1,0,0,0
+SOUTH GEORGIA AND SANDWICH ISLANDS (UK),SOUTH GEORGIA AND SANDWICH ISLANDS,(b),Common law,Common,1,0,1,0,0,0
+SPAIN (SP),SPAIN,43.5,Civil law,Civil,1,1,0,0,0,0
+SRI LANKA,SRI LANKA,19.8,Mixed,Civil|Common|Customary,3,1,1,1,0,0
+SUDAN,SUDAN,37,Mixed,Common|Muslim,2,0,1,0,1,0
+SURINAME,SURINAME,0.5,Civil law,Civil,1,1,0,0,0,0
+SWAZILAND,SWAZILAND,1.1,Mixed,Civil|Customary,2,1,0,1,0,0
+SWEDEN,SWEDEN,9,Civil law,Civil,1,1,0,0,0,0
+SWITZERLAND,SWITZERLAND,7.4,Civil law,Civil,1,1,0,0,0,0
+SYRIA,SYRIA,19.5,Mixed,Civil|Muslim,2,1,0,0,1,0
+TAIWAN,TAIWAN,22.8,Mixed,Civil|Customary,2,1,0,1,0,0
+TAJIKISTAN,TAJIKISTAN,6.7,Civil law,Civil,1,1,0,0,0,0
+TANZANIA,TANZANIA,39.5,Mixed,Common|Customary,2,0,1,1,0,0
+THAILAND,THAILAND,64.7,Civil law,Civil,1,1,0,0,0,0
+TOGO,TOGO,6.3,Mixed,Civil|Customary,2,1,0,1,0,0
+TOKELAU (NZ),TOKELAU,(b),Common law,Common,1,0,1,0,0,0
+TONGA,TONGA,0.1,Common law,Common,1,0,1,0,0,0
+TRINIDAD AND TOBAGO,TRINIDAD AND TOBAGO,1.3,Common law,Common,1,0,1,0,0,0
+TUNISIA,TUNISIA,10.1,Mixed,Civil|Muslim,2,1,0,0,1,0
+TURKEY,TURKEY,72.9,Civil law,Civil,1,1,0,0,0,0
+TURKMENISTAN,TURKMENISTAN,4.9,Civil law,Civil,1,1,0,0,0,0
+TURKS AND CAICOS (UK),TURKS AND CAICOS,(b),Common law,Common,1,0,1,0,0,0
+TUVALU,TUVALU,---,Common law,Common,1,0,1,0,0,0
+UGANDA,UGANDA,29.9,Mixed,Common|Customary,2,0,1,1,0,0
+UKRAINE,UKRAINE,46.6,Civil law,Civil,1,1,0,0,0,0
+UNITED ARAB EMIRATES,UNITED ARAB EMIRATES,4.6,Mixed,Customary|Muslim,2,0,0,1,1,0
+"UNITED KINGDOM (UK) (minus BERMUDA, SCOTLAND, GUERNSEY, JERSEY AND MAN ISLE) (NB: SCOTLAND: Civil law/Common law and GUERNSEY and JERSEY: Customary law)",UNITED KINGDOM,(9) 55.3,Common law,Common,1,0,1,0,0,0
+"UNITED STATES OF AMERICA (USA) (minus GUAM, LOUISIANA, MARIANA, AMERICAN SAMOA AND VIRGIN AMERICAN ISLANDS) (NB: LOUISIANA: Civil law/Common law)",UNITED STATES OF AMERICA,(10) 294.7,Common law,Common,1,0,1,0,0,0
+URUGUAY,URUGUAY,3.3,Civil law,Civil,1,1,0,0,0,0
+UZBEKISTAN,UZBEKISTAN,26.5,Civil law,Civil,1,1,0,0,0,0
+VANUATU,VANUATU,0.2,Mixed,Civil|Common|Customary,3,1,1,1,0,0
+VATICAN,VATICAN,---,Civil law,Civil,1,1,0,0,0,0
+VENEZUELA,VENEZUELA,27,Civil law,Civil,1,1,0,0,0,0
+VIETNAM,VIETNAM,84.1,Civil law,Civil,1,1,0,0,0,0
+VIRGIN ISLANDS (USA),VIRGIN ISLANDS,0.1,Common law,Common,1,0,1,0,0,0
+VIRGIN ISLANDS (UK),VIRGIN ISLANDS,(b),Common law,Common,1,0,1,0,0,0
+WALLIS AND FUTUNA (FR),WALLIS AND FUTUNA,(b),Civil law,Civil,1,1,0,0,0,0
+YEMEN,YEMEN,21.6,Mixed,Civil|Common|Customary|Muslim,4,1,1,1,1,0
+ZAMBIA,ZAMBIA,11.9,Mixed,Common|Customary,2,0,1,1,0,0
+ZIMBABWE,ZIMBABWE,13.1,Mixed,Civil|Common|Customary,3,1,1,1,0,0
