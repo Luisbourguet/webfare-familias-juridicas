@@ -2,17 +2,17 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24110937.svg)](https://doi.org/10.5281/zenodo.24110937)
 
-**Preprint, versión 1.0.2 (11 de noviembre de 2026; texto de la versión 1.0 del 10 de noviembre)** · Luis Felipe Bourguet González · **versión no arbitrada y no definitiva** · enviada a una revista con evaluación por pares doble ciego (sede no indicada) · CC BY 4.0
+**Preprint, versión 1.0.3 (11 de noviembre de 2026; texto de la versión 1.0 del 10 de noviembre, con la declaración de financiamiento actualizada)** · Luis Felipe Bourguet González · **versión no arbitrada y no definitiva** · enviada a una revista con evaluación por pares doble ciego (sede no indicada) · CC BY 4.0
 
-- PDF: [`Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-2.pdf`](Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-2.pdf)
-- DOCX: [`Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-2.docx`](Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-2.docx)
+- PDF: [`Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-3.pdf`](Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-3.pdf)
+- DOCX: [`Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-3.docx`](Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-3.docx)
 - Fuente: [`preprint.md`](preprint.md) (Pandoc; archivos de compilación en `build/`)
 
 El repositorio contiene además los datos derivados y el código que permiten reproducir los resultados descriptivos de las secciones IV y V y la comprobación de sensibilidad de IV §3 y de la nota 10.
 
 ## Cómo citar
 
-Bourguet, L. (2026). *El Webfare en las familias jurídicas: teoría constitucional comparada del reparto del valor del dato* (preprint, versión 1.0.2; versión no arbitrada y no definitiva). Zenodo. https://doi.org/10.5281/zenodo.24110937
+Bourguet, L. (2026). *El Webfare en las familias jurídicas: teoría constitucional comparada del reparto del valor del dato* (preprint, versión 1.0.3; versión no arbitrada y no definitiva). Zenodo. https://doi.org/10.5281/zenodo.24110937
 
 ## Versiones
 
@@ -21,6 +21,7 @@ Bourguet, L. (2026). *El Webfare en las familias jurídicas: teoría constitucio
 | v1.0-preprint | 2026-11-10 | [10.5281/zenodo.24110938](https://doi.org/10.5281/zenodo.24110938) | Primer depósito |
 | v1.0.1-preprint | 2026-11-10 | [10.5281/zenodo.24111070](https://doi.org/10.5281/zenodo.24111070) | DOI de concepto en el PDF, el DOCX, el README y CITATION.cff; texto sin cambios |
 | v1.0.2-preprint | 2026-11-11 | [10.5281/zenodo.24125595](https://doi.org/10.5281/zenodo.24125595) | Composición: las direcciones de las referencias se tratan como enlaces y se parten dentro del margen; partición silábica del español; archivos renombrados a v1-0-2; texto sin cambios |
+| v1.0.3-preprint | 2026-11-11 | (se asigna al publicar) | Declaración de financiamiento (nota 1 y Declaraciones): reconocimiento oficial del proyecto WEBFARE (n.º FISA2022-00908, MUR, FISA 2022); el autor no recibió financiamiento personal; archivos renombrados a v1-0-3; resto del texto sin cambios |
 
 El DOI de concepto [10.5281/zenodo.24110937](https://doi.org/10.5281/zenodo.24110937) remite siempre a la última versión.
 
