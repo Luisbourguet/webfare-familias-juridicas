@@ -20,7 +20,7 @@ Bourguet, L. (2026). *El Webfare en las familias jurídicas: teoría constitucio
 |---|---|---|---|
 | v1.0-preprint | 2026-11-10 | [10.5281/zenodo.24110938](https://doi.org/10.5281/zenodo.24110938) | Primer depósito |
 | v1.0.1-preprint | 2026-11-10 | [10.5281/zenodo.24111070](https://doi.org/10.5281/zenodo.24111070) | DOI de concepto en el PDF, el DOCX, el README y CITATION.cff; texto sin cambios |
-| v1.0.2-preprint | 2026-11-11 | — | Composición: las direcciones de las referencias se tratan como enlaces y se parten dentro del margen; partición silábica del español; archivos renombrados a v1-0-2; texto sin cambios |
+| v1.0.2-preprint | 2026-11-11 | [10.5281/zenodo.24125595](https://doi.org/10.5281/zenodo.24125595) | Composición: las direcciones de las referencias se tratan como enlaces y se parten dentro del margen; partición silábica del español; archivos renombrados a v1-0-2; texto sin cambios |
 
 El DOI de concepto [10.5281/zenodo.24110937](https://doi.org/10.5281/zenodo.24110937) remite siempre a la última versión.
 
