@@ -1,6 +1,6 @@
-% Cabecera del preprint, versión 1.0 (10 de noviembre de 2026).
+% Cabecera del preprint, versión 1.0.2 (11 de noviembre de 2026).
 % Compilación (desde la raíz del repositorio):
-%   pandoc preprint.md -o Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0.pdf \
+%   pandoc -f markdown+autolink_bare_uris preprint.md -o Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-2.pdf \
 %     --pdf-engine=xelatex --lua-filter=build/breakable_links.lua --lua-filter=build/keep_table_titles.lua \
 %     -H build/doi.tex -H build/preprint_build_header.tex \
 %     -V mainfont="TeX Gyre Pagella" -V geometry:a4paper,margin=2.5cm -V fontsize=11pt \
@@ -35,7 +35,7 @@
     \node[fill=bandgreen,text=white,font=\scriptsize\bfseries,inner xsep=6pt,inner ysep=3pt,anchor=west]
       (t3) at ([xshift=1pt]t2.east) {DATOS Y CÓDIGO ABIERTOS};
     \node[fill=white,text=bandred,font=\scriptsize,inner xsep=5pt,inner ysep=2pt,anchor=east]
-      at ([xshift=-1.7cm,yshift=1.1cm]current page.south east) {Versión 1.0 \,·\, 10 de noviembre de 2026\BANDDOI};
+      at ([xshift=-1.7cm,yshift=1.1cm]current page.south east) {Versión 1.0.2 \,·\, 11 de noviembre de 2026\BANDDOI};
   \end{tikzpicture}}
 % --- legend box above the title (page 1) ---
 \newtcolorbox{preprintband}{enhanced,colback=bandbg,colframe=bandred,boxrule=0.8pt,leftrule=5pt,arc=1.5pt,
@@ -49,11 +49,13 @@
 % tablas anchas en letra menor
 \usepackage{caption}
 % addresses break only after a slash, dot or hyphen (pandoc loads xurl, which would break anywhere)
+% evita líneas que se salen del margen
+\setlength{\emergencystretch}{3em}
 \AtBeginDocument{\def\UrlBreaks{\do\/\do\.\do\-}\def\UrlBigBreaks{}}
 \captionsetup[figure]{labelformat=empty}
 \usepackage{titling}
 \setlength{\droptitle}{-3em}
-\pretitle{\begin{preprintband}\bandtab{bandred}{PREPRINT}\hspace{2pt}\bandtab{bandamber}{ENVIADO}\hspace{2pt}\bandtab{bandgreen}{DATOS Y CÓDIGO ABIERTOS}\par\smallskip Versión 1.0 · 10 de noviembre de 2026 · Versión no arbitrada y no definitiva · Enviada a una revista con evaluación por pares doble ciego (sede no indicada) · CC~BY~4.0 · Datos y código: \href{https://github.com/Luisbourguet/webfare-familias-juridicas}{github.com/Luisbourguet/webfare-familias-juridicas}\BANDDOITEXT\end{preprintband}\vspace{1.2em}\begin{center}\LARGE}
+\pretitle{\begin{preprintband}\bandtab{bandred}{PREPRINT}\hspace{2pt}\bandtab{bandamber}{ENVIADO}\hspace{2pt}\bandtab{bandgreen}{DATOS Y CÓDIGO ABIERTOS}\par\smallskip Versión 1.0.2 · 11 de noviembre de 2026 · Versión no arbitrada y no definitiva · Enviada a una revista con evaluación por pares doble ciego (sede no indicada) · CC~BY~4.0 · Datos y código: \href{https://github.com/Luisbourguet/webfare-familias-juridicas}{github.com/Luisbourguet/webfare-familias-juridicas}\BANDDOITEXT\end{preprintband}\vspace{1.2em}\begin{center}\LARGE}
 \posttitle{\par\end{center}\vskip 0.3em}
 % tablas: letra menor y columnas más estrechas para que quepan las de diez columnas
 \usepackage{etoolbox}

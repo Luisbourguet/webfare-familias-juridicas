@@ -1,8 +1,8 @@
-"""Finalizador DOCX del preprint, versión 1.0 (10 de noviembre de 2026).
+"""Finalizador DOCX del preprint, versión 1.0.2 (11 de noviembre de 2026).
 
 Usage (from the repository root):
   pandoc preprint.md -o /tmp/raw.docx --resource-path=.
-  python3 build/preprint_docx_band.py /tmp/raw.docx Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0.docx \
+  python3 build/preprint_docx_band.py /tmp/raw.docx Bourguet_2026_Webfare_familias_juridicas_preprint_v1-0-2.docx \
       "<status line>" "<title>" "<footer suffix>"
 
 What it does: black headings, justified body; a legend box above the title with three
@@ -109,7 +109,7 @@ gap = first.insert_paragraph_before(); gap.paragraph_format.space_after = Pt(6)
 
 def footer_line(fp):
     fp.text = ''; fp.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    r = fp.add_run('Versión 1.0 · 10 de noviembre de 2026' + fsuffix + ' · página '); r.font.size = Pt(8); r.font.color.rgb = rgb(RED)
+    r = fp.add_run('Versión 1.0.2 · 11 de noviembre de 2026' + fsuffix + ' · página '); r.font.size = Pt(8); r.font.color.rgb = rgb(RED)
     for kind, txt in (('begin', None), (None, 'PAGE'), ('end', None)):
         rr = fp.add_run(); rr.font.size = Pt(8); rr.font.color.rgb = rgb(RED)
         if kind:

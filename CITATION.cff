@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "Si usa este repositorio, cítelo como se indica abajo."
-title: "El Webfare en las familias jurídicas: teoría constitucional comparada del reparto del valor del dato (preprint, v1.0.1)"
+title: "El Webfare en las familias jurídicas: teoría constitucional comparada del reparto del valor del dato (preprint, v1.0.2)"
 authors:
   - family-names: Bourguet
     given-names: Luis
     orcid: https://orcid.org/0000-0002-4673-4486
-version: 1.0.1-preprint
-date-released: 2026-11-10
+version: 1.0.2-preprint
+date-released: 2026-11-11
 license: CC-BY-4.0
 type: article
 repository-code: https://github.com/Luisbourguet/webfare-familias-juridicas
